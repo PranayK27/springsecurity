@@ -54,5 +54,6 @@ Spring Boot Security no dependency
 
 
 Tested:
+
 ![](supporting-docs/series-2-6-min.jpeg)
 ![](supporting-docs/series-2-7-min.jpeg)
